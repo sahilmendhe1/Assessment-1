@@ -1,0 +1,35 @@
+{
+  "Bookings": [
+    {
+      "movieName": "Sarkar",
+      "noOfTickets": "1",
+      "date": "2023-02-21T18:30:00.000Z",
+      "totalAmount": "150",
+      "id": 2
+    },
+    {
+      "movieName": "Me hu chota Don",
+      "noOfTickets": 1,
+      "date": "2023-02-21T18:30:00.000Z",
+      "totalAmount": "150",
+      "id": 3
+    },
+    {
+      "movieName": "Iron Man",
+      "noOfTickets": 1,
+      "date": "2023-02-23T18:30:00.000Z",
+      "totalAmount": "150",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
